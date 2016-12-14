@@ -1,6 +1,21 @@
 # The **Ultimate** Art Resource Collection Yes
-
-[TOC]
+- [The Ultimate Art Resource Collection Yes](#)
+	- [General](#)
+		- [Users](#)
+		- [Playlists](#)
+		- [Videos](#)
+		- [Pictures / Text](#)
+	- [Bodies/Proportion](#)
+		- [Applications & Sites](#)
+		- [Playlists](#)
+		- [Videos](#)
+		- [Pictures / Text](#)
+	- [Painting/Shading](#)
+		- [Playlists](#)
+		- [Single Videos](#)
+		- [Pictures/Text](#)
+	- [References](#)
+	- [Physical Books](#)
 
 ## General
 
